@@ -7,3 +7,5 @@
 我在服务器端更新。在本地拉下来
 
 git@github.com:kouok/justtest.git
+
+开通了权限，我看能不能提交到第三评中
