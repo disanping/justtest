@@ -20,4 +20,6 @@ git@github.com:kouok/justtest.git
 
 PS:只要我更新了该文件夹，那么就会在GitHub桌面版自动显示有更新（change）
 
+直接在左下角输入摘要并commit即可（这是存到了暂存区），然后在上面的菜单栏的fetch origin变成了 push origin，意味着本地可以提交到服务器上了。
+
 ----end
